@@ -28,7 +28,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(option => 
 {
     option.AddPolicy("MyPolicy", opt => opt
-        .WithOrigins("http://localhost:4200")
+        .WithOrigins("http://localhost:4200") 
         .AllowAnyHeader()
         .AllowCredentials()
     );

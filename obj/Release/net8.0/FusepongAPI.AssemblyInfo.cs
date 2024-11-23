@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FusepongAPI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1055a6570c9b34f38a6c53ae3480a84cdc8122aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f5cc4d7af3c00f5132eb529adb007b8d73104cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FusepongAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FusepongAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
